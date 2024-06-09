@@ -6,8 +6,8 @@ This repository provides a streamlined version of the original [HamsterKombatBot
 - **No Responsibility**: The creators of this project bear no responsibility
 - **Independent Research**: Users should conduct their research and consult professionals.
 - **Compliance with Laws**: Ensure compliance with all applicable laws and regulations in your jurisdiction.
-- You are responsible for anything you do with the this code, just as you are responsible for anything you do with any dangerous object such as a knife, gun, lighter, or car.
-- You are responsible for the content you publish, and you cannot blame the model any more than you can blame the knife, gun, lighter, or car for what you do with it.
+- You are responsible for anything you do with this code, just as you are responsible for anything you do with any dangerous object such as a knife, gun, lighter, or car.
+- You may get ban by Telegram or other bots including Hamster Kombat
 
 ## Functionality
 
