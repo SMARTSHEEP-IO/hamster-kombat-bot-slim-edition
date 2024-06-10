@@ -5,3 +5,4 @@ logger-36==2024.14
 loguru==0.7.2
 aiohttp==3.9.5
 python-dotenv==1.0.1
+tgcrypto==1.2.5
